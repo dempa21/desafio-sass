@@ -27,6 +27,11 @@
     font-size: 6rem;
 }
 
+#carousel {
+    width: 1200px;
+    opacity: 0.5;
+}
+
 #carouselExampleIndicators {
     width: 1200px;
     opacity: 0.5;
@@ -35,6 +40,7 @@
 .carousel-item {
     justify-content: center;
 }
+
 .colorVerde {
     color: green;
 }
@@ -129,6 +135,7 @@ h5 {
     padding-left: 50px;
 }
 .seccion3 {
+    height: 60vh;
     justify-content: start;
     background: rgba(198, 162, 120, 0.747);
     box-sizing: border-box;
