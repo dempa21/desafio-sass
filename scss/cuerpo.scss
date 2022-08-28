@@ -1,0 +1,35 @@
+.card-body {
+    display: flex;
+    flex-direction: column;
+}
+
+.colorVerde {
+    color: green;
+}
+
+.center {
+    width: 450px;
+}
+
+.container h1 {
+    color: white;
+}
+
+#fondo {
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#fondo-seccion1 {
+    align-self: center;
+    width: max-content;
+}
+
+h5 {
+    padding-bottom: 225px;
+}
+
+.text-center {
+    display: flex;
+    justify-content: center;
+}

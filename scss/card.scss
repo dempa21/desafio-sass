@@ -1,0 +1,28 @@
+.btn {
+    width: 10rem;
+    align-self: flex-end;
+}
+
+.card {
+    position: absolute;
+    right: 20px;
+    top: 500px;
+    background: url('/images/clase-card.jpg');
+    border: 2rem;
+    border-color: white;
+
+  
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+}
+
+.card p {
+    align-self: center;
+}
+
+.card-title {
+    font-size: 6rem;
+}

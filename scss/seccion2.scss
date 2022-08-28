@@ -1,0 +1,38 @@
+.seccion2 {
+    background: blue;
+    color: white;
+    box-sizing: border-box;
+    padding: 35px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: start;
+    margin-bottom: 35px;
+}
+
+.seccion2 img{
+    width: 450px;
+    float: left;
+    padding-right: 15px;
+}
+
+.seccion2-clases {
+        background: blue;
+        color: white;
+        box-sizing: border-box;
+        padding: 35px;
+        display: flex;
+        align-items: center;
+        align-content: center;
+        justify-content: start;
+        margin-bottom: 35px;
+}
+.seccion2-clases img {
+    width: 450px;
+    float: left;
+    padding-right: 25px;
+}
+
+.seccion2-clases p {
+    padding-left: 50px;
+}
